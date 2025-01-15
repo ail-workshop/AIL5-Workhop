@@ -363,9 +363,11 @@ ol.pastsalts li:before {content: counter(item) ": "; counter-increment: item }
 
 
 table.program {
-    border-collapse: collapse;
-    border: 2px solid white;
+    /*border-collapse: collapse;
+    border: 2px solid white;*/
     /* border-spacing: 2px; */
+    border-top: thin solid;
+    border-bottom: thin solid;
     border-spacing: 0px 0px;
     font-size: 14px;
 }

@@ -391,6 +391,10 @@ td.title {
     width: 40%;
 }
 
+td.head {
+    border-bottom: thin solid;
+}
+
 tr.admin {
     /* background-color: #C6C6C6; */
 }

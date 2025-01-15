@@ -376,7 +376,7 @@ table.program td {
     padding: 5px 10px;
     margin: 0px;
     vertical-align: top;
-    border: 2px solid white;
+ /*   border: 2px solid white; */
 }
 
 td.time {

@@ -62,7 +62,7 @@ author: "Program -- January 29-31, 2025"
 
 |                                            |                                                                                                       |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Michael Madden Prinzing and Joshua Knobe   | "From artifacts to human lives: Investigating the domain-generality of judgments about purposes" |
+| Michael Madden Prinzing and Joshua Knobe   | "From artefacts to human lives: Investigating the domain-generality of judgements about purposes" |
 |                                            |                                                                                                       |
 | Alice Suozzi and Gianluca Lebani              | "What makes an Agent an Agent? Comparing the semantic properties of Instruments and prototypical Agents in subject position" |
 |                                            |                                                                                                       |

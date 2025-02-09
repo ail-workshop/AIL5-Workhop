@@ -1,0 +1,164 @@
+
+# Announcements
+
+* LingList
+* Philos-L
+* PhilEvents
+* SPP
+* local mail lists
+
+
+## To announce on Philos-L
+
+send an email to philos-l@liv.ac.uk
+
+## To announce on SPP
+
+send an email to PSYC-SPP-MISC@LISTS.UBC.CA
+
+
+
+# Reviewing
+
+36 submissions
+
+3 days, 5 slots per day = 15 slots
+- 3 invited speakers - 1 poster session = 11 presentations (5+6) + 4 posters (2+2)
+
+2.  Accept	Phil 	LLMs and speech act
+3.  Reject	Phil	values, self-shaping (not the theme of AIL)
+4.  Poster 	Phil 	purpose attribution experiments (Josh Knobe)
+5.  Accept?	Phil	'want' in folk psychology
+6.  Accept?	Phil	baptism as speech act (not super relevant)
+7.  Poster?	Phil	indexicals and group beliefs/actions
+8.  Reject	Phil	free will and Deterministic Universe
+9.  Reject	Phil	aesthetics (not the theme of AIL)
+10. Accept?	Ling	Korean causatives (slightly relevant)
+11. Reject?	Phil	moral responsibility and suspension of judgements
+12. Reject	Phil	speech act and obligations (no clear analysis)
+13. Accept	Ling	agency and telicity
+14. Accept	Phil	degrees of irrationality and Counting grass blades
+15. Reject	Phil	solidarity speech (not relevant)
+16. Poster	Ling	experiment on theta-role perception in Italian
+17. Reject	Phil	mind-wondering and mental action (not rel.)
+18. Reject	Phil	self-interpretation (not relevant)
+19. Reject	Phil	Aristotle on action (not suitable for interdisciplinary)
+20. Poster?	Ling	Cause in Creole (e causes an intention...)
+21. Poster?	Phil	Error cases - wilted apples
+22. Poster?	Phil	disability Lewis - not very developed
+23. Accept?	Phil	Contra E.A., complex actions: attitude, material, modal
+24. Reject	Ling	Hindi agent, experiment - only paper abstract and references on 2 pages
+25. Poster	Ling	Implicatives experiment Eng
+26. Reject	Phil	negative actions (not developed)
+27. Reject	Phil	knowledge-how - not developed
+28. Accept?	Phil	ling agency, E.A., why? - the end is not clear
+29. Poster	Ling	Parkinson, motion verbs experiment
+30. Reject	Phil	moral responsibility (not interdisciplinary)
+31. Accept?	Ling	the notion of agent, Slavic data (no analysis)
+32. Reject	Phil	chatbox and Grice
+33. Reject	Ling	probing into agency - seems to be an exp. but no results
+34. Accept	Ling	believe/intend alternation in Italian
+35. Reject	Phil	blaming practices (not interdisciplinary)
+36e. Accept	Ling	semantics of try vs intend
+37e. Reject	Phil	Ans, Sartre, Wittgenstein - not interdisciplinary
+38e. Accept	Phil	Larry inconsistent bel ...
+
+Accepted only
+5.  Accept	Phil	'want' in folk psychology
+7.  Accept	Phil	indexicals and group beliefs/actions
+21. Accept	Phil	Error cases - wilted apples
+23. Accept?	Phil	Contra E.A., complex actions: attitude, material, modal
+28. Accept?	Phil	ling agency, E.A., why? - the end is not clear
+
+
+
+10. Accept?	Ling	Korean causatives (slightly relevant)
+13. Accept?	Ling	agency and telicity
+20. Accept	Ling	Cause in Creole (e causes an intention...)
+31. Accept	Ling	the notion of agent, Slavic data (no analysis)
+34. Accept?	Ling	believe/intend alternation in Italian
+36. Accept	Ling	semantics of try vs intend 
+
+
+Alternate
+2.  Accept	Phil 	LLMs and speech act
+14. Accept	Phil	degrees of irrationality and Counting grass blades
+38. Accept	Phil	Larry (email) compatmentalisation and inconsistent beliefs
+
+
+Posters
+4.  Poster 	Phil 	purpose attribution experiments (Josh Knobe and a student)
+16. Poster	Ling	experiment on theta-role perception in Italian
+25. Poster	Ling	Implicatives experiment Eng
+29. Poster	Ling	Parkinson, motion verbs experiment
+
+
+All accepted
+2 4 5 7 10 13 14 16 20 21 23 25 28 29 31 34 36e, 38e
+All rejected
+1 3 6 8 9 11 12 15 17 18 19 22 24 26 27 30 32 33 35 37e
+
+
+Notice of acceptance email:
+
+Dear {{fullname}},
+
+We are pleased to inform you that your submission No. {{submission_number}} has been accepted for presentation at Agency and Intentions in Language 5 (AIL5).
+
+Conference Details:
+* Dates: January 29-31, 2025
+* Time: 9:00-13:15 EST / 15:00-19:15 CET
+* Location: Zoom (the link will be sent separately)
+* Webpage: https://ail-workshop.github.io/AIL5-Workshop/index.html
+
+Next Steps:
+* Send us an email if you are NOT able to participate by **January 10th, 2025**. If we do not hear from you by that time, we assume that you confirm your participation.
+* Submit your final de-anonymised abstract by **January 10th, 2025**, sending it as a pdf attachment to agencyandintentionsinlanguage@gmail.com.
+* Prepare presentation materials
+
+Presentation Guidelines:
+* Presentation length: 30 minutes
+* Q&A session: 15 minutes
+
+Presentation Slides:
+Given the diverse academic backgrounds of our attendees, we kindly request that you prepare your presentation slides with this multidisciplinary audience in mind. To facilitate effective communication across disciplines, we recommend the following:
+* Clarity of Terminology: Please provide brief explanations or definitions for discipline-specific terms and concepts that may not be familiar to scholars from other fields.
+* Contextual Background: Consider including a concise overview of your field's relevant foundational concepts to provide necessary context for your research.
+* Visual Aids: Use clear, well-labeled diagrams, charts, or illustrations to convey complex ideas in an accessible way.
+* Accessible Language: While maintaining academic rigor, aim for language that is comprehensible to a broader scholarly audience.
+
+We look forward to your valuable contribution and participation in advancing scientific knowledge about agency and intentions!
+
+Sincerely,
+Julie Goncharov (on behalf of the scientific committee)
+
+
+
+Dear {{fullname}},
+
+Thank you for your submission to Agency and Intentions in Language 5 (AIL5). After a careful review by our scientific committee, I regret to inform you that your submission No. {{submission_number}} was not selected for presentation this year.
+
+Please understand that a rejection is not a reflection of the inherent value of your work. We had to reject a number of excellent abstracts. The most common reasons for rejection were that there were abstracts that better fit the theme of the workshop or its interdisciplinary nature.
+ 
+We encourage you to continue your valuable work and welcome your future submissions.
+
+Sincerely,
+Julie Goncharov (on behalf of the scientific committee)
+
+
+Dear X.
+
+Thank you so much for your abstract. Looking forward to your presentation at AIL5!
+
+Cheers,
+Julie
+
+Some email templates from KT are in AIL5 email folder.
+
+
+
+
+
+
+
+
